@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AkumaGotLost
+- 👀 I’m interested in Developing Bots & Programs
+- 🌱 I’m currently learning about Bot Developing
+- 📫 You Can Reach Me By Discord, `akuma.eyx`
